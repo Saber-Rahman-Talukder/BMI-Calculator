@@ -3,4 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="dark_ash">#313650</color>
+    <color name="dark_blue">#313c73</color>
+
+    <color name="Under_weight">#000A42</color>
+    <color name="Normal">#000A42</color>
+    <color name="Over_weight">#000A42</color>
+    <color name="Obse">#000A42</color>
 </resources>
